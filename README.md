@@ -23,14 +23,14 @@ python auto_sub.py -f input.mp4 -o output.mp4
 
 ### editor.conf Options
 - Türkçe:
-```toml
+```conf
 [RecognizerSettings]
 language=tr
 recognizer=google
 ```
 
 - Ingilizce
-```toml
+```conf
 [RecognizerSettings]
 language=en
 recognizer=google
